@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/clocloe",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/clo%C3%A9-gex-723620213/",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
